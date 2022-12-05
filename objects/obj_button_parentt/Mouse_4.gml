@@ -8,3 +8,4 @@ y = ystart + 4;
 
 // the alarm event runs after 10 frames and resets the position of the button
 alarm[0] = 10;
+
