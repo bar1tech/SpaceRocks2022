@@ -1,5 +1,5 @@
 # SpaceRocks2022
- Gurpreet Matharoo's GameMaker tutorial on SpaceRocks.
+ GameMaker SpaceRock tutorial by Gurpreet Matharoo.
  
  Main Game: https://gamemaker.io/en/tutorials/make-arcade-space-shooter
  
